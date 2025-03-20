@@ -58,7 +58,7 @@ Restart & Pause Buttons for better user experience.
 
 1️⃣ Clone the repository
 
-git clone https://github.com/Mazid2002/Car-Racing-Game.git
+git clone https://github.com/Mazid2002/car-racing-game-using-javascript.git
 
 2️⃣ Navigate into the folder
 
